@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+		<item>
+			<title>Promena termina probe</title>
+			<link> </link>
+			<description>Došlo je do promene termina probe I ansambla. Novi termin je ponedeljkom u 20 časova. </description>
+		</item>
+		
+		<item>
+			<title>Nastup</title>
+			<link> </link>
+			<description>25.12.2018. u 18 časova  nastupamo u Staroj Pazovi u Kulturnom centru.</description>
+		</item>
+		
+		<item>
+			<title>Akcija-besplatna proba!</title>
+			<link> </link>
+			<description>Besplatne prve 2 probe za sve koji se upišu u decembru.</description>
+		</item>
+		
+		<item>
+			<title>Otkazana proba</title>
+			<link> </link>
+			<description>Otkazuje se proba II ansambla u subotu 15.12.2018. Bićete obavešteni o nadoknadi probe.</description>
+		</item>
+	</channel>
+</rss>
+
